@@ -1,4 +1,6 @@
 # NoteForOneself
+William Kim
+
 NoteForOneself.com is an online directory to keep logs or docs. 
 
 Software/Tools:
